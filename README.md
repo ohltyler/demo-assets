@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# demo-assets
-=======
 # Demo Assets
 
 Simple repository for storing image/video assets for various demos.
@@ -20,4 +17,3 @@ https://raw.githubusercontent.com/USERNAME/REPO/main/path/to/asset.jpg
 ## Contributing
 
 Upload assets to the appropriate folder and reference them in your demos using the raw GitHub URLs.
->>>>>>> 197b3c3 (Init)
